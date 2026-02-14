@@ -1,0 +1,12 @@
+.DS_Store
+vendor/
+node_modules/
+.env
+config.php
+mysql.php
+MysqliDb.php
+*.log
+*.bak
+test_*
+temp_*
+/private_data/

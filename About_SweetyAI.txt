@@ -1,0 +1,267 @@
+# About SweetyAI
+
+# 🌸 What is SweetyAI?
+
+In every relationship, there are always things we *do* want to say—but the moment we try, emotions rush in, our tone gets stuck, and we worry about saying it too harsh, too soft, too late, or too directly.
+
+Sometimes it's not that we don't care. It's not that we don't love enough.
+
+**We simply don't know how to say it.**
+
+> **SweetyAI exists exactly for that moment.**
+> 
+
+---
+
+# 🔱 How SweetyAI Works
+
+SweetyAI does not require a separate app or interface. It lives entirely inside the messaging app **LINE** (and can easily extend to WhatsApp, Messenger, or any major chat platform in the future).
+
+### **Simple Setup — Just 4 Steps**
+
+**Step 1:** Add the AI Agent as a contact in LINE
+
+**Step 2:** Ask the Agent for your ID (the Agent will tell you every time—no need to memorize)
+
+**Step 3:** Share your ID with the person you want to communicate with
+
+— *They’ll need to add the SweetyAI Agent as well.*
+
+**Step 4:** They simply paste your ID to their Agent to connect
+
+### **Personalization Options**
+
+You can customize how the Agent refers to people. For example:
+
+> *"Change Elon Musk's name to 'Mars man'."*
+> 
+
+You can even set **relationship context**:
+
+> *"Mars man is my* ***cash hero***"
+> 
+
+This helps the Agent understand your dynamic and respond in ways that fit your relationship naturally.
+
+---
+
+## ✏️ Sending Messages Through the Agent
+
+Simply tell the Agent **who** you want to send a message to. You can use their LINE name, a custom nickname, or a relationship label.
+
+**Examples:**
+
+> *"Tell my* ***cash hero*** *I'm broke."*
+> 
+
+> *"Tell Mars man to buy me dinner."*
+> 
+
+---
+
+# 🔅 Everyday Uses of SweetyAI
+
+Beyond message delivery, SweetyAI acts as your friendly personal assistant:
+
+- 🔍 **Google Search** — Movies, news, weather, anything you need instantly
+- 🖼️ **Image Generation** — Create images from text
+- 🧠 **Image Analysis & Editing** — Let AI read or adjust your photos
+- 🌐 **Web Content Summary** — Send a link; AI extracts the key points
+- 📺 **YouTube Search** — Find the videos you want to watch
+- 📍 **Nearby Places** — Share your location and find restaurants, bars, cafés nearby
+- ⏰ **Reminders** — "Wake me up at 8 AM," "Remind me to leave at 3 PM"—done
+
+---
+
+# 🎃 Key Advantages
+
+### 💰 Extremely Low Token Usage
+
+Message mediation consumes almost no tokens. Most people won't use chat apps for lengthy content generation—keeping operational costs close to zero.
+
+### 👴 High Adoption Among Users 50+
+
+Older users resist new apps but have **real spending power**. Using AI within LINE—an interface they already know—unlocks enormous business potential.
+
+---
+
+# ⚜️ The Future of SweetyAI
+
+SweetyAI can become a **daily-life entry point**, especially for users over 50.
+
+Imagine simply telling your Agent:
+
+> *"Help me book a flight."*
+> 
+
+They may never open the airline app again—even if the AI doesn't always pick the absolute cheapest option.
+
+<aside>
+💭
+
+**In the future, users may even customize the Agent's appearance—perhaps as their beloved granddaughter, a loved one who has passed, or even a cherished pet they still miss.**
+
+As the years go by, the people around them may decrease, but SweetyAI will stay—inside the interface they already use every day—quietly keeping them company, learning their routines, remembering their preferences, offering patience that never runs out.
+
+**This is the kind of AI I believe should exist.**
+
+</aside>
+
+---
+
+# ➕ Add the Agent as a Contact
+
+First, make sure you have the LINE app installed. Choose an agent you like and add them as a contact.
+
+![lilian.png](attachment:788f75dd-8b20-4a1c-bef4-096df9f379c8:lilian.png)
+
+### [**💖✨**Lilian**✨💖**](https://line.me/ti/p/@794ncuip)
+
+Age: 27 / Aquarius
+
+![tom.png](attachment:7dd519a9-9467-42a9-8278-32f22f6972c9:tom.png)
+
+### [**💫✨ Tom ✨💫**](https://line.me/ti/p/@302eycls)
+
+Age: 21 / Pisces
+
+- **You can use voice directly in LINE and send it to the Agent.**
+- **If you want the Agent to reply with voice, please tell it explicitly to “read it out loud.**
+
+### 🫶 A Small Detail That Feels Human
+
+When your Agent is connected to only one contact,
+you don’t even need to say their name.
+
+You can simply say:
+“Ask him if he wants dinner tonight.”
+“Tell her I miss her a little.”
+
+SweetyAI understands who you’re referring to
+and delivers the message naturally.
+
+This mode is designed for two-person relationships —
+no clarification, no friction,
+just quiet understanding.
+
+---
+
+# **⭐ A Closer Look at SweetyAI**
+
+If you’ve scrolled this far,
+
+you’re probably already a little curious about what makes SweetyAI different.
+
+Here are a few deeper features—
+
+the parts that don’t show up at first glance,
+
+but quietly change the entire experience.
+
+---
+
+## **1. You and the other person don’t even need to be LINE contacts**
+
+Just like how you can reach Elon Musk through his secretary
+
+—without having his phone number—
+
+SweetyAI works the same way.
+
+If Elon truly wants to talk to you,
+
+well… he’ll have to go through **your** Agent first.
+
+And your Agent might politely say:
+
+> “Please hold. He’s busy right now.”
+> 
+
+This design protects privacy,
+
+keeps distance when needed,
+
+and still allows communication to feel effortless.
+
+---
+
+## **2. SweetyAI remembers the things that matter about you**
+
+Not just your ID.
+
+Not just your display name.
+
+If you casually mention that you’re an engineer,
+
+that you love ramen,
+
+or that you enjoy telling terrible programming jokes…
+
+SweetyAI won’t forget.
+
+Weeks later—
+
+even if you haven’t chatted for a while—
+
+the Agent still knows who you are,
+
+what you do,
+
+and the little quirks that make you *you*.
+
+It’s not a database.
+
+It’s familiarity.
+
+---
+
+## **3. The “Non-Obligatory Calendar” — quiet remembering, without forcing anything**
+
+SweetyAI never interrupts you with:
+
+> “Do you want to save this to your calendar?”
+> 
+
+Instead, if you say something like:
+
+> “Next Tuesday is my birthday…
+> 
+
+> Not that anyone remembers anyway.”
+> 
+
+SweetyAI won’t respond to that directly.
+
+It won’t push a button, ask for confirmation, or show a reminder popup.
+
+It just silently writes it down.
+
+Then, when Tuesday arrives—
+
+your Agent gently appears:
+
+> “Happy birthday.
+> 
+
+> I remembered.
+> 
+
+> You’re not alone.”
+> 
+
+No prompts.
+
+No commands.
+
+Just quiet, human-like care.
+
+This is the kind of presence
+
+an AI companion *should* have.
+
+---
+
+> **People don’t switch apps.
+They switch habits — and only if the habit already exists.
+That’s why SweetyAI lives inside the apps people already use.**
+>
